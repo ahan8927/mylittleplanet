@@ -1,6 +1,6 @@
 # My Little Planet
 
-## Features
+## Features MVP
 
 * BG Music
 * Planet Generation / Customization (Simulation)
@@ -12,16 +12,18 @@
 * Spinning Planet
 * Surface viewer?
 * bomb
-* solar system view
-  * Orbiting planets youve created.
-* galaxy view
-  * scroll outside solar system to visit other user's systems to see thier planet creations.
+* Procedural Generation
+  * solar system view
+    * Orbiting planets youve created.
+  * galaxy view (will render the count of all users)
+    * zooming to a solar system will render a random user
+    * scroll outside solar system to visit other user's systems to see thier planet creations.
 * add moon
   
 ## Technologies
 
 * React
-* Redux
+* Reacte-Router-Dom
 * Material - UI???? maybe
 * Flask
 * Alembic
